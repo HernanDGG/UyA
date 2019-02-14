@@ -110,4 +110,4 @@ No contiene ficheros JavaScript.
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="imagetoolbar" content="no">
         <title>Control de Errores</title>
-	```
+```
