@@ -37,8 +37,8 @@ Inglés: en-US
 No contiene ficheros JavaScript.
 
   **9.- Alguna línea de código CSS que se aplique.**
-  
-`(p.e) →    
+```  
+(p.e) →    
 .section {
    font-family: "Droid Sans", sans-serif;
    font-size: 15px;
@@ -47,11 +47,13 @@ No contiene ficheros JavaScript.
    margin: 0 auto;
    padding: 5px 0 0 0;
    clear: both;
-}`
+}
+```
 
   **10.- Alguna línea de código HTML que se aplique.**
-  
-`(p.e) → <div class="izq"> <img src="/istac/resources/imagenes/logo_istac.jpg" alt=""> </div>`
+```  
+(p.e) → <div class="izq"> <img src="/istac/resources/imagenes/logo_istac.jpg" alt=""> </div>`
+```
 
 ## Segunda página
 Página web: 
@@ -94,16 +96,18 @@ Inglés: en-US
 No contiene ficheros JavaScript.
 
 **9.- Alguna línea de código CSS que se aplique.**
-
-`[open] > .expandable-opening {
+```
+[open] > .expandable-opening {
   list-style-type: '−';
-}`
+}
+```
 
 **10.- Alguna línea de código HTML que se aplique.**
-
-`<html lang="es">
+```
+<html lang="es">
     <head>
         <meta http-equiv="X-Frame-Options" content="DENY">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta http-equiv="imagetoolbar" content="no">
-        <title>Control de Errores</title>`
+        <title>Control de Errores</title>
+	```
