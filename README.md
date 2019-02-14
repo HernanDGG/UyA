@@ -1,4 +1,3 @@
-# Usabilidad y Accesibilidad
 ## Primera página
 Página web: http://www.gobiernodecanarias.org/istac/api/
 
@@ -101,6 +100,7 @@ No contiene ficheros JavaScript.
 }`
 
 **10.- Alguna línea de código HTML que se aplique.**
+
 `<html lang="es">
     <head>
         <meta http-equiv="X-Frame-Options" content="DENY">
